@@ -1,0 +1,26 @@
+{
+  "DefaultProjectDescription": "Descripcion Proyecto",
+  "DefaultProjectName": "Proyecto",
+  "Dependencies": {
+    "UiPath.Excel.Activities": "[2.7.2]",
+    "UiPath.Mail.Activities": "[1.7.2]",
+    "UiPath.System.Activities": "[19.10.1]",
+    "UiPath.UIAutomation.Activities": "[19.11.1]"
+  },
+  "Description": "Template Base RPA 1.0",
+  "DisplayPriority": 0,
+  "ExceptionHandlerWorkflow": null,
+  "IconUri": "CustomProcessVBIcon",
+  "IsBlank": false,
+  "Label": "Process",
+  "MainFile": "Main.xaml",
+  "Name": "TemplateBaseRPA1.0",
+  "NewTemplateTitle": null,
+  "PrivateFiles": null,
+  "OutputType": 0,
+  "ProjectProfile": 0,
+  "ExpressionLanguage": 0,
+  "SupportsPersistence": false,
+  "RequiresUserInteraction": true,
+  "AutoDispose": false
+}
